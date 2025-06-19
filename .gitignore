@@ -14,9 +14,6 @@ env/
 # Streamlit cache
 .streamlit/
 
-# Model files
-*.pkl
-*.joblib
 
 # OS / Editor files
 .DS_Store
