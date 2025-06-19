@@ -3,7 +3,7 @@ import joblib
 import numpy as np
 
 # Load model and utilities
-model = joblib.load("model/Crop_model.pkl")
+model = joblib.load("model/crop_model.pkl")
 scaler = joblib.load("model/scaler.pkl")
 label_encoder = joblib.load("model/label_encoder.pkl")
 
